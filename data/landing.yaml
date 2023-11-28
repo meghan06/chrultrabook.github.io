@@ -18,17 +18,17 @@ hero:
 
   image:
     path: "images" # path to image under configured assets directory. default 'images'
-    filename: "lotus_docs_screenshot.png" # filename of your hero image (including file extension)
-    alt: "Chrultrabook Docs Screenshot" # Optional but recommended
+    filename: "landing.jpg" # filename of your hero image (including file extension)
+    alt: "chrultrabook project screenshot" # Optional but recommended
     boxShadow: true # default 'false' (excludes .svg images)
     rounded: true # round the image corners? default 'false' (excludes .svg images)
 
   ctaButton:
     icon: rocket_launch
     btnText: "Get Started"
-    url: "/docs/"
+    url: "https://docs.chrultrabook.com"
   cta2Button:
-    btnText: "Discourse"
+    btnText: "Forum"
     url: "https://forum.chrultrabook.com"
 
 # Features Grid
