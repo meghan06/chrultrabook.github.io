@@ -17,11 +17,11 @@ hero:
 
 
   image:
-    path: "assets/images" # path to image under configured assets directory. default 'images'
+    path: /"assets/images" # path to image under configured assets directory. default 'images'
     filename: "landing.jpg" # filename of your hero image (including file extension)
     alt: "chrultrabook project screenshot" # Optional but recommended
-    boxShadow: true # default 'false' (excludes .svg images)
-    rounded: true # round the image corners? default 'false' (excludes .svg images)
+    boxShadow: false # default 'false' (excludes .svg images)
+    rounded: false # round the image corners? default 'false' (excludes .svg images)
 
   ctaButton:
     icon: rocket_launch
