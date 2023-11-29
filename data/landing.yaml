@@ -17,7 +17,7 @@ hero:
 
 
   image:
-    path: /"assets/images" # path to image under configured assets directory. default 'images'
+    path: "/assets/images" # path to image under configured assets directory. default 'images'
     filename: "landing.jpg" # filename of your hero image (including file extension)
     alt: "chrultrabook project screenshot" # Optional but recommended
     boxShadow: false # default 'false' (excludes .svg images)
