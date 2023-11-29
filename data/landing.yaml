@@ -5,11 +5,11 @@ hero:
   enable: true
   weight: 10
 
-  backgroundImage:
-    path: "images/templates/hero"
-    filename:
-      desktop: "gradient-desktop.webp"
-      mobile: "gradient-mobile.webp"
+  #backgroundImage:
+  #  path: "images/templates/hero"
+  #  filename:
+  #    desktop: "gradient-desktop.webp"
+  #    mobile: "gradient-mobile.webp"
 
 
   title: "Chrultrabook Project"
