@@ -15,7 +15,7 @@ hero:
   title: "Chrultrabook Project"
   subtitle: The chrultrabook project facilitates the installation of alternative operating systems on Chromebooks, offering users the freedom to customize their devices beyond the limitations of chromeOS.
 
-    image: # 5
+    image: 
         path: "/assets/images/"
         filename: "landing.jpg"
         alt: "Screenshot" # Optional but recommended
