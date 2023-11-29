@@ -15,12 +15,6 @@ hero:
   title: "Chrultrabook Project"
   subtitle: The chrultrabook project facilitates the installation of alternative operating systems on Chromebooks, offering users the freedom to customize their devices beyond the limitations of chromeOS.
 
-# image: 
-#  path: "assets/images/"
-#  filename: "landing.jpg"
-#  boxShadow: false # default 'false' (excludes .svg images)
-#  rounded: true # round the image corners? default 'false' (excludes .svg images)
-  
   ctaButton:
     icon: rocket_launch
     btnText: "Get Started"
